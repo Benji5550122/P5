@@ -4,7 +4,7 @@
 
 [Space](https://github.com/Benji5550122/P5/blob/gh-pages/f21magd150lab02_levin.zip)
 
-## This is an interactive code where you can add different toppings using multiple shapes
+## This is an interactive code where you can add different toppings to a pizza using multiple shapes
 
 [Pizza](https://github.com/Benji5550122/P5/blob/gh-pages/f21magd150lab04_levin.zip)
 
